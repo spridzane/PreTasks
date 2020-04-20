@@ -1,0 +1,3 @@
+file.txt :file.txt :file.txt :My file.txt here
+next line
+one more line

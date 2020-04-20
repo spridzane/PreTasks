@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08b46c57-65d0-4f8e-b7cf-f6641b3ce567" name="Default Changelist" comment="" />
+    <list default="true" id="08b46c57-65d0-4f8e-b7cf-f6641b3ce567" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +20,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aAvWmZRUjAs0Ah7e9sJhrQ3I65" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,39 +39,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ToDoRun">
-    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PreTask4.ExceptionHandling" />
+  <component name="RunManager" selected="Application.ThreadTest">
+    <configuration name="InputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreTask5.InputOutput" />
       <module name="PreTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PreTask4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GeometricApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PreTask_Inh_Pol_Abs.GeometricApp" />
-      <module name="PreTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PreTask_Inh_Pol_Abs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HumanApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PreTask3.HumanApp" />
-      <module name="PreTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PreTask3.*" />
+          <option name="PATTERN" value="PreTask5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +59,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PreTask4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreTask5.StreamReader" />
+      <module name="PreTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PreTask5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreTask5.ThreadTest" />
+      <module name="PreTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PreTask5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.StreamReader" />
+        <item itemvalue="Application.InputOutput" />
         <item itemvalue="Application.ToDoRun" />
         <item itemvalue="Application.ListApp" />
-        <item itemvalue="Application.ExceptionHandling" />
-        <item itemvalue="Application.GeometricApp" />
-        <item itemvalue="Application.HumanApp" />
       </list>
     </recent_temporary>
   </component>
@@ -121,34 +129,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="738" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1586968463686">
+    <state x="275" y="25" key="#Inspections" timestamp="1587400428421">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="738" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586968463686" />
+    <state x="275" y="25" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1587400428421" />
+    <state x="738" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1587403621018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="738" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587403621018" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587142920365">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587142920365" />
-    <state width="1323" height="444" key="GridCell.Tab.0.bottom" timestamp="1587201494298">
+    <state width="1323" height="128" key="GridCell.Tab.0.bottom" timestamp="1587405480959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="444" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587201494298" />
-    <state width="1323" height="444" key="GridCell.Tab.0.center" timestamp="1587201494298">
+    <state width="1323" height="128" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587405480959" />
+    <state width="1323" height="128" key="GridCell.Tab.0.center" timestamp="1587405480958">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="444" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587201494298" />
-    <state width="1323" height="444" key="GridCell.Tab.0.left" timestamp="1587201494298">
+    <state width="1323" height="128" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587405480958" />
+    <state width="1323" height="128" key="GridCell.Tab.0.left" timestamp="1587405480958">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="444" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587201494298" />
-    <state width="1323" height="444" key="GridCell.Tab.0.right" timestamp="1587201494298">
+    <state width="1323" height="128" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587405480958" />
+    <state width="1323" height="128" key="GridCell.Tab.0.right" timestamp="1587405480959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="444" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587201494298" />
+    <state width="1323" height="128" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587405480959" />
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587142662286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587142662286" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1587402058779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587402058779" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586968488453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
